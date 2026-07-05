@@ -1,5 +1,9 @@
 # Emotion Classification with Transformers
 
+[![Hugging Face Model](https://img.shields.io/badge/%F0%9F%A4%97%20Model-distilbert--emotion-FFD21E)](https://huggingface.co/Sreekant13/distilbert-emotion)
+[![Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2FSreekant13%2Fdistilbert-emotion&query=%24.downloads&label=%F0%9F%A4%97%20downloads%2Fmonth&color=FFD21E)](https://huggingface.co/Sreekant13/distilbert-emotion)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+
 Fine-tuning transformer encoders for **6-class emotion detection** on the [`dair-ai/emotion`](https://huggingface.co/datasets/dair-ai/emotion) dataset (sadness, joy, love, anger, fear, surprise), with a published model on the Hugging Face Hub.
 
 🤗 **Published model:** [Sreekant13/distilbert-emotion](https://huggingface.co/Sreekant13/distilbert-emotion)
